@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "6a909a9a-b90c-4cd3-bd16-4369c5664018",
+    "name": "Mabilon",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2f3a056a-6bb9-3eb8-8a10-143c4a956faf",
+    "name": "Mabilone",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1cad83d3-bc83-4945-8098-f935121abd7c",
+    "name": "Mabilone",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a6b916e3-b8a5-3fdd-9e59-2fcbec60d7c3",
+    "name": "mabione",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "705b6125-db9d-3345-8493-656588c0f4eb",
+    "name": "mabilne",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

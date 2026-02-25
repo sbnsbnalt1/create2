@@ -1,0 +1,30 @@
+{
+	id: "118b87eb-c2a4-4270-9c36-44595b8b34aa"
+	type: "party"
+	owner: "2f3a056a-6bb9-3eb8-8a10-143c4a956faf"
+	ranks: {
+		2f3a056a-6bb9-3eb8-8a10-143c4a956faf: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "La pary"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF4508"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1771529435959L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Mabilone\"],\"color\":\"yellow\"}" }]
+	extra: { }
+}

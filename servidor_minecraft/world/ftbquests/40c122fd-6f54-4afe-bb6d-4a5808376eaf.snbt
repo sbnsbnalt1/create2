@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "40c122fd6f544afebb6d4a5808376eaf"
+	name: "sebita_chile#40c122fd"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		10CE7D11B912F418: 1L
+	}
+	started: {
+		23983F4DC524B14B: 1771516967034L
+		10CE7D11B912F418: 1771516967034L
+		0000000000000001: 1771516967034L
+		58B125BD4876054C: 1771516967034L
+	}
+	completed: {
+		10CE7D11B912F418: 1771516967034L
+		58B125BD4876054C: 1771516967034L
+	}
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

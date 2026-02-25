@@ -1,0 +1,541 @@
+[25Feb2026 00:00:32.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> unos 5 capaz
+[25Feb2026 00:00:48.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> busca donde matarlo pormientreas
+[25Feb2026 00:08:06.184] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 00:08:06.185] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 00:08:06.185] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1373MB / Diff: +52MB
+[25Feb2026 00:08:06.186] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[25Feb2026 00:12:32.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1181, y=62, z=1444} BlockPos{x=-1179, y=62, z=1440}
+[25Feb2026 00:18:06.234] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 00:18:06.235] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 00:18:06.235] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1378MB / Diff: +57MB
+[25Feb2026 00:18:06.235] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[25Feb2026 00:22:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <sebita_chile> as
+[25Feb2026 00:26:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile has made the advancement [Withering Heights]
+[25Feb2026 00:26:50.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer has made the advancement [Withering Heights]
+[25Feb2026 00:28:06.220] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 00:28:06.221] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 00:28:06.221] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1399MB / Diff: +78MB
+[25Feb2026 00:28:06.222] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 00:28:06.222] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[25Feb2026 00:28:06.222] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 115
+[25Feb2026 00:29:33.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 00:29:34.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 00:29:35.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 00:29:36.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 00:29:40.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer moved wrongly!
+[25Feb2026 00:30:00.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1206, y=-8, z=1442} BlockPos{x=-1068, y=37, z=1562}
+[25Feb2026 00:32:40.166] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Chelsie'/72653, l='ServerLevel[world]', x=-1213.58, y=-13.75, z=1445.22] died: Chelsie was struck by lightning
+[25Feb2026 00:32:41.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer was struck by lightning while fighting Wither
+[25Feb2026 00:35:02.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was struck by lightning while fighting Wither
+[25Feb2026 00:36:07.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was shot by Skeleton
+[25Feb2026 00:36:34.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer hit the ground too hard
+[25Feb2026 00:38:06.277] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 00:38:06.277] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 00:38:06.277] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 00:38:06.278] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1409MB / Diff: +88MB
+[25Feb2026 00:38:06.278] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 00:38:06.278] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 00:38:06.279] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[25Feb2026 00:38:06.279] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[25Feb2026 00:38:06.279] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 24
+[25Feb2026 00:38:28.712] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 00:38:48.862] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 00:42:02.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 00:42:03.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 00:42:07.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 00:44:57.005] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86476, l='ServerLevel[world]', x=59.00, y=31.00, z=-42.00] as it would cause deadlock
+[25Feb2026 00:45:00.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile has made the advancement [Oh Shiny]
+[25Feb2026 00:45:56.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=101, z=-2} BlockPos{x=-101, y=101, z=-2}
+[25Feb2026 00:45:56.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=101, z=-2} BlockPos{x=-101, y=101, z=-2}
+[25Feb2026 00:45:56.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=101, z=-2} BlockPos{x=-101, y=101, z=-2}
+[25Feb2026 00:45:56.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=101, z=-2} BlockPos{x=-101, y=101, z=-2}
+[25Feb2026 00:45:56.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-102, y=101, z=-2} BlockPos{x=-101, y=101, z=-2}
+[25Feb2026 00:46:16.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=71, z=47} BlockPos{x=-120, y=74, z=54}
+[25Feb2026 00:48:06.330] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 00:48:06.330] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 00:48:06.330] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 00:48:06.331] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1441MB / Diff: +120MB
+[25Feb2026 00:48:06.331] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 00:48:06.331] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 00:48:06.331] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[25Feb2026 00:48:06.331] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[25Feb2026 00:48:06.331] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 36
+[25Feb2026 00:48:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer has made the advancement [Spooky Scary Skeleton]
+[25Feb2026 00:53:09.015] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 00:53:10.511] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 00:54:04.009] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 00:55:45.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer moved wrongly!
+[25Feb2026 00:58:06.373] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 00:58:06.374] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 00:58:06.374] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 00:58:06.375] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1409MB / Diff: +88MB
+[25Feb2026 00:58:06.375] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 00:58:06.375] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 00:58:06.375] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[25Feb2026 00:58:06.375] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[25Feb2026 00:58:06.375] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 69
+[25Feb2026 00:59:17.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile has made the advancement [Brazen]
+[25Feb2026 01:08:06.444] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 01:08:06.448] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 01:08:06.449] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 01:08:06.449] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1402MB / Diff: +81MB
+[25Feb2026 01:08:06.450] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[25Feb2026 01:10:36.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mabilone[/127.122.35.229:53715] logged in with entity id 136264 at (-1037.7979092263968, 74.0, 1440.0248510753727)
+[25Feb2026 01:10:36.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone joined the game
+[25Feb2026 01:10:37.364] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[25Feb2026 01:10:37.468] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mabilone (20)
+[25Feb2026 01:10:37.469] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mabilone
+[25Feb2026 01:14:25.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25Feb2026 01:17:28.545] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 12.27 ms. 4388/4388 recipes are parallelized.
+[25Feb2026 01:18:06.474] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 01:18:06.474] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 01:18:06.474] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 01:18:06.474] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1418MB / Diff: +97MB
+[25Feb2026 01:18:06.475] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[25Feb2026 01:20:14.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Barton'/92470, l='ServerLevel[world]', x=-1176.41, y=73.00, z=1440.66] died: Barton was slain by Zombie
+[25Feb2026 01:20:44.488] [Server thread/INFO] [com.simibubi.create.Create/]: RecipeTrie of depth 9 with 3428 nodes built with 4927 variants, 1553 ingredients, and 2641 recipes
+[25Feb2026 01:21:59.561] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 01:25:41.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1278, y=72, z=1473} BlockPos{x=-1268, y=90, z=1442}
+[25Feb2026 01:26:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mabilone> bean
+[25Feb2026 01:26:06.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> bind
+[25Feb2026 01:26:13.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mabilone> bind
+[25Feb2026 01:28:06.531] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 01:28:06.532] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 01:28:06.532] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 01:28:06.532] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1426MB / Diff: +105MB
+[25Feb2026 01:28:06.532] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[25Feb2026 01:30:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile has made the advancement [Wilden Tribute]
+[25Feb2026 01:31:00.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer moved wrongly!
+[25Feb2026 01:32:29.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile has made the advancement [Archmage Spell Book]
+[25Feb2026 01:32:43.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 01:32:56.143] [Server thread/INFO] [fastsuite/]: Constructed recipe list for create:sandpaper_polishing in 135.1 μs. 0/392 recipes are parallelized.
+[25Feb2026 01:38:06.578] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 01:38:06.578] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 01:38:06.578] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 01:38:06.578] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1423MB / Diff: +102MB
+[25Feb2026 01:38:06.579] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[25Feb2026 01:40:23.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer moved wrongly!
+[25Feb2026 01:42:38.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Keitha'/160803, l='ServerLevel[world]', x=-1166.50, y=42.00, z=1412.66] died: Keitha drowned
+[25Feb2026 01:44:07.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mabilone> lag
+[25Feb2026 01:45:42.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1266, y=62, z=1458} BlockPos{x=-1267, y=61, z=1458}
+[25Feb2026 01:45:49.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1266, y=61, z=1459} BlockPos{x=-1266, y=64, z=1458}
+[25Feb2026 01:45:55.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=62, z=1460} BlockPos{x=-1267, y=49, z=1461}
+[25Feb2026 01:45:55.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=62, z=1460} BlockPos{x=-1267, y=49, z=1461}
+[25Feb2026 01:45:55.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=62, z=1460} BlockPos{x=-1267, y=49, z=1461}
+[25Feb2026 01:45:55.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1268, y=62, z=1460} BlockPos{x=-1267, y=49, z=1461}
+[25Feb2026 01:45:59.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1267, y=55, z=1462} BlockPos{x=-1266, y=55, z=1462}
+[25Feb2026 01:48:06.619] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 01:48:06.619] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 01:48:06.619] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 01:48:06.620] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1427MB / Diff: +106MB
+[25Feb2026 01:48:06.620] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 01:48:06.620] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[25Feb2026 01:48:06.620] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 69
+[25Feb2026 01:54:22.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> as
+[25Feb2026 01:58:06.686] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 01:58:06.686] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 01:58:06.686] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 01:58:06.686] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1440MB / Diff: +119MB
+[25Feb2026 01:58:06.687] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[25Feb2026 02:05:56.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1150, y=72, z=1426} BlockPos{x=-1146, y=72, z=1424}
+[25Feb2026 02:05:56.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1150, y=72, z=1426} BlockPos{x=-1146, y=72, z=1424}
+[25Feb2026 02:05:56.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1150, y=72, z=1426} BlockPos{x=-1146, y=71, z=1424}
+[25Feb2026 02:05:56.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1150, y=72, z=1426} BlockPos{x=-1146, y=71, z=1424}
+[25Feb2026 02:05:56.620] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1150, y=72, z=1426} BlockPos{x=-1146, y=71, z=1424}
+[25Feb2026 02:06:47.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has completed the challenge [Chisels & Bits!]
+[25Feb2026 02:08:06.725] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 02:08:06.726] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 4
+[25Feb2026 02:08:06.726] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 02:08:06.726] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1411MB / Diff: +90MB
+[25Feb2026 02:08:06.726] [Server thread/INFO] [AllTheLeaks/]: No memory leak detected!
+[25Feb2026 02:08:43.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was struck by lightning
+[25Feb2026 02:08:48.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1150, y=70, z=1416} BlockPos{x=-1070, y=69, z=1439}
+[25Feb2026 02:08:59.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved too quickly! 0.24691174825375128,10.410007548745014,0.04193072098200901
+[25Feb2026 02:08:59.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> sasin
+[25Feb2026 02:09:04.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: You logged in from another location
+[25Feb2026 02:09:04.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
+[25Feb2026 02:09:04.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mabilone
+[25Feb2026 02:09:04.199] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Feb2026 02:09:08.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mabilone[/127.122.35.229:41875] logged in with entity id 213321 at (-1050.5780154355143, 72.41999998688698, 1438.9153045003527)
+[25Feb2026 02:09:08.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone joined the game
+[25Feb2026 02:09:08.283] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[25Feb2026 02:09:08.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mabilone (20)
+[25Feb2026 02:09:08.651] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mabilone
+[25Feb2026 02:10:23.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was struck by lightning
+[25Feb2026 02:10:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was struck by lightning
+[25Feb2026 02:12:48.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=66, z=1439} BlockPos{x=-1072, y=65, z=1440}
+[25Feb2026 02:12:48.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=66, z=1439} BlockPos{x=-1072, y=65, z=1440}
+[25Feb2026 02:12:48.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=66, z=1439} BlockPos{x=-1072, y=65, z=1440}
+[25Feb2026 02:13:35.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1071, y=59, z=1438} BlockPos{x=-1071, y=58, z=1438}
+[25Feb2026 02:13:35.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1071, y=59, z=1438} BlockPos{x=-1071, y=58, z=1438}
+[25Feb2026 02:13:41.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1070, y=60, z=1438} BlockPos{x=-1072, y=54, z=1438}
+[25Feb2026 02:13:41.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1070, y=60, z=1438} BlockPos{x=-1072, y=54, z=1439}
+[25Feb2026 02:13:43.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:43.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1075, y=58, z=1437}
+[25Feb2026 02:13:44.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1073, y=58, z=1438} BlockPos{x=-1073, y=59, z=1437}
+[25Feb2026 02:13:46.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was struck by lightning
+[25Feb2026 02:13:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was struck by lightning
+[25Feb2026 02:15:13.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=66, z=1439} BlockPos{x=-1059, y=69, z=1441}
+[25Feb2026 02:16:24.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slain by sebita_chile
+[25Feb2026 02:16:40.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=72, z=1443} BlockPos{x=-1068, y=63, z=1456}
+[25Feb2026 02:16:40.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=72, z=1443} BlockPos{x=-1068, y=63, z=1456}
+[25Feb2026 02:16:40.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=72, z=1443} BlockPos{x=-1068, y=63, z=1456}
+[25Feb2026 02:16:40.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=72, z=1443} BlockPos{x=-1068, y=63, z=1456}
+[25Feb2026 02:16:40.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=72, z=1443} BlockPos{x=-1068, y=63, z=1456}
+[25Feb2026 02:16:40.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1059, y=72, z=1443} BlockPos{x=-1068, y=63, z=1456}
+[25Feb2026 02:16:49.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slain by sebita_chile
+[25Feb2026 02:16:50.281] [Netty Epoll Server IO #4/ERROR] [net.minecraft.network.Connection/]: Exception caught in connection
+io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:custom_payload'
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:55) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/neoforge@21.1.219/net.neoforged.neoforge.network.filters.GenericPacketSplitter.encode(GenericPacketSplitter.java:104) ~[neoforge-21.1.219-universal.jar%23394!/:?]
+	at TRANSFORMER/neoforge@21.1.219/net.neoforged.neoforge.network.filters.GenericPacketSplitter.encode(GenericPacketSplitter.java:39) ~[neoforge-21.1.219-universal.jar%23394!/:?]
+	at MC-BOOTSTRAP/io.netty.codec@4.1.97.Final/io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:90) ~[netty-codec-4.1.97.Final.jar%23100!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.codec@4.1.97.Final/io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.97.Final.jar%23100!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection$2.write(Connection.java:528) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.doSendPacket$mixinextras$wrapped$93(Connection.java:364) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.mixinextras$bridge$doSendPacket$mixinextras$wrapped$93$94(Connection.java) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.wrapMethod$zci000$modernfix$checkClientPresence(Connection.java:1750) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.doSendPacket(Connection.java) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.lambda$sendPacket$12(Connection.java:359) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413) ~[netty-transport-classes-epoll-4.1.97.Final.jar%23105!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.RuntimeException: Failed encoding custom payload carryon:sync_carry_data: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.writeCap(CustomPacketPayload.java:42) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.encode(CustomPacketPayload.java:47) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.encode(CustomPacketPayload.java:29) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$4.encode(StreamCodec.java:81) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:97) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:87) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	... 34 more
+Caused by: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:637) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$EntryIterator.next(Object2ObjectOpenHashMap.java:731) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$EntryIterator.next(Object2ObjectOpenHashMap.java:726) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.collect.TransformedIterator.next(TransformedIterator.java:52) ~[guava-32.1.2-jre.jar%2385!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.AbstractObject2ObjectMap.putAll(AbstractObject2ObjectMap.java:341) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.putAll(Object2ObjectOpenHashMap.java:228) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:125) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:134) ~[fastutil-8.5.12.jar%23109!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:704) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.lambda$static$2(CompoundTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Codec$2.encode(Codec.java:80) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Encoder$2.lambda$encode$0(Encoder.java:39) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Success.flatMap(DataResult.java:201) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Encoder$2.encode(Encoder.java:39) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Codec$2.encode(Codec.java:80) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.ByteBufCodecs$19.encode(ByteBufCodecs.java:310) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.ByteBufCodecs$19.encode(ByteBufCodecs.java:301) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$8.encode(StreamCodec.java:157) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.writeCap(CustomPacketPayload.java:40) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.encode(CustomPacketPayload.java:47) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.encode(CustomPacketPayload.java:29) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$4.encode(StreamCodec.java:81) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:97) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:87) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	... 34 more
+[25Feb2026 02:16:50.280] [Netty Epoll Server IO #3/ERROR] [net.minecraft.network.Connection/]: Exception caught in connection
+io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:custom_payload'
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:55) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/neoforge@21.1.219/net.neoforged.neoforge.network.filters.GenericPacketSplitter.encode(GenericPacketSplitter.java:104) ~[neoforge-21.1.219-universal.jar%23394!/:?]
+	at TRANSFORMER/neoforge@21.1.219/net.neoforged.neoforge.network.filters.GenericPacketSplitter.encode(GenericPacketSplitter.java:39) ~[neoforge-21.1.219-universal.jar%23394!/:?]
+	at MC-BOOTSTRAP/io.netty.codec@4.1.97.Final/io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:90) ~[netty-codec-4.1.97.Final.jar%23100!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.codec@4.1.97.Final/io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.97.Final.jar%23100!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection$2.write(Connection.java:528) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar%23104!/:4.1.97.Final]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.doSendPacket$mixinextras$wrapped$93(Connection.java:364) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.mixinextras$bridge$doSendPacket$mixinextras$wrapped$93$94(Connection.java) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.wrapMethod$zci000$modernfix$checkClientPresence(Connection.java:1750) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.doSendPacket(Connection.java) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.lambda$sendPacket$12(Connection.java:359) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.97.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:413) ~[netty-transport-classes-epoll-4.1.97.Final.jar%23105!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar%23101!/:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.RuntimeException: Failed encoding custom payload carryon:sync_carry_data: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.writeCap(CustomPacketPayload.java:42) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.encode(CustomPacketPayload.java:47) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.encode(CustomPacketPayload.java:29) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$4.encode(StreamCodec.java:81) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:97) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:87) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	... 34 more
+Caused by: java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectArrayList.get(int)" because "this.wrapped" is null
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$MapIterator.nextEntry(Object2ObjectOpenHashMap.java:637) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$EntryIterator.next(Object2ObjectOpenHashMap.java:731) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap$EntryIterator.next(Object2ObjectOpenHashMap.java:726) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.collect.TransformedIterator.next(TransformedIterator.java:52) ~[guava-32.1.2-jre.jar%2385!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.AbstractObject2ObjectMap.putAll(AbstractObject2ObjectMap.java:341) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.putAll(Object2ObjectOpenHashMap.java:228) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:125) ~[fastutil-8.5.12.jar%23109!/:?]
+	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:134) ~[fastutil-8.5.12.jar%23109!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.copy(CompoundTag.java:704) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.lambda$static$2(CompoundTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Encoder$1.encode(Encoder.java:25) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Codec$2.encode(Codec.java:80) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Encoder$2.lambda$encode$0(Encoder.java:39) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Success.flatMap(DataResult.java:201) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Encoder$2.encode(Encoder.java:39) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Codec$2.encode(Codec.java:80) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.Encoder.encodeStart(Encoder.java:14) ~[datafixerupper-8.0.16.jar%2398!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.ByteBufCodecs$19.encode(ByteBufCodecs.java:310) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.ByteBufCodecs$19.encode(ByteBufCodecs.java:301) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$8.encode(StreamCodec.java:157) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.writeCap(CustomPacketPayload.java:40) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.encode(CustomPacketPayload.java:47) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.protocol.common.custom.CustomPacketPayload$1.encode(CustomPacketPayload.java:29) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$4.encode(StreamCodec.java:81) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:97) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.StreamCodec$5.encode(StreamCodec.java:87) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23393!/:?]
+	... 34 more
+[25Feb2026 02:16:50.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer lost connection: Internal Exception: io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:custom_payload'
+[25Feb2026 02:16:50.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer left the game
+[25Feb2026 02:16:50.331] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zErazer
+[25Feb2026 02:16:50.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile lost connection: Internal Exception: io.netty.handler.codec.EncoderException: Failed to encode packet 'clientbound/minecraft:custom_payload'
+[25Feb2026 02:16:50.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile left the game
+[25Feb2026 02:16:50.394] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sebita_chile
+[25Feb2026 02:16:58.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zErazer[/127.17.240.191:58425] logged in with entity id 225992 at (-1070.2525677409042, 72.0, 1458.346469062451)
+[25Feb2026 02:16:58.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer joined the game
+[25Feb2026 02:16:58.870] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[25Feb2026 02:16:59.096] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zErazer (20)
+[25Feb2026 02:16:59.097] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zErazer
+[25Feb2026 02:17:00.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sebita_chile[/127.201.40.155:51995] logged in with entity id 226024 at (-1064.9377614396449, 71.0, 1456.70439822009)
+[25Feb2026 02:17:00.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile joined the game
+[25Feb2026 02:17:00.855] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[25Feb2026 02:17:01.147] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sebita_chile (20)
+[25Feb2026 02:17:01.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sebita_chile
+[25Feb2026 02:17:35.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile was burned to a crisp while fighting Skeleton
+[25Feb2026 02:18:06.773] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 02:18:06.773] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 12
+[25Feb2026 02:18:06.773] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[25Feb2026 02:18:06.774] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 02:18:06.774] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1467MB / Diff: +146MB
+[25Feb2026 02:18:06.774] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 02:18:06.774] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 02:18:06.774] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 9
+[25Feb2026 02:18:06.774] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[25Feb2026 02:18:06.774] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 47
+[25Feb2026 02:18:23.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1063, y=59, z=1461} BlockPos{x=-1063, y=58, z=1460}
+[25Feb2026 02:18:23.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1063, y=59, z=1461} BlockPos{x=-1062, y=58, z=1460}
+[25Feb2026 02:18:28.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:28.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=57, z=1453} BlockPos{x=-1065, y=57, z=1454}
+[25Feb2026 02:18:44.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=56, z=1456} BlockPos{x=-1064, y=63, z=1450}
+[25Feb2026 02:19:11.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1062, y=66, z=1454} BlockPos{x=-1062, y=65, z=1454}
+[25Feb2026 02:19:11.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1062, y=66, z=1454} BlockPos{x=-1062, y=65, z=1454}
+[25Feb2026 02:19:39.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile suffocated in a wall
+[25Feb2026 02:19:42.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=52, z=1441} BlockPos{x=-1064, y=51, z=1441}
+[25Feb2026 02:20:57.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile suffocated in a wall
+[25Feb2026 02:21:42.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=69, z=1455} BlockPos{x=-1065, y=59, z=1455}
+[25Feb2026 02:22:01.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1062, y=70, z=1453} BlockPos{x=-1060, y=71, z=1453}
+[25Feb2026 02:22:01.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1062, y=70, z=1453} BlockPos{x=-1060, y=71, z=1453}
+[25Feb2026 02:22:02.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1062, y=70, z=1453} BlockPos{x=-1060, y=71, z=1453}
+[25Feb2026 02:23:41.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1064, y=95, z=1456} BlockPos{x=-1064, y=96, z=1456}
+[25Feb2026 02:24:20.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:21.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:21.085] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:21.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:21.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:21.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:21.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:21.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:21.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=62, z=1461} BlockPos{x=-1072, y=61, z=1462}
+[25Feb2026 02:24:24.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=64, z=1460} BlockPos{x=-1070, y=65, z=1459}
+[25Feb2026 02:24:24.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=64, z=1460} BlockPos{x=-1070, y=65, z=1459}
+[25Feb2026 02:24:24.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1072, y=64, z=1460} BlockPos{x=-1070, y=65, z=1459}
+[25Feb2026 02:24:31.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slashed by sebita_chile
+[25Feb2026 02:25:53.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer was slain by sebita_chile
+[25Feb2026 02:26:00.614] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Clare'/251, l='ServerLevel[world]', x=-1178.79, y=57.00, z=1460.35] died, message: 'Clare suffocated in a wall'
+[25Feb2026 02:26:00.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Clare'/251, l='ServerLevel[world]', x=-1178.79, y=57.00, z=1460.35] died: Clare suffocated in a wall
+[25Feb2026 02:26:34.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slashed by sebita_chile
+[25Feb2026 02:27:11.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1149, y=70, z=1415} BlockPos{x=-1152, y=74, z=1412}
+[25Feb2026 02:27:58.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1151, y=70, z=1415} BlockPos{x=-1150, y=70, z=1416}
+[25Feb2026 02:28:06.820] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 02:28:06.820] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 17
+[25Feb2026 02:28:06.820] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[25Feb2026 02:28:06.820] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 02:28:06.820] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1445MB / Diff: +124MB
+[25Feb2026 02:28:06.821] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 02:28:06.821] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 02:28:06.821] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 9
+[25Feb2026 02:28:34.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slashed by sebita_chile
+[25Feb2026 02:31:11.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer was slain by sebita_chile
+[25Feb2026 02:33:34.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slashed by sebita_chile
+[25Feb2026 02:34:28.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:29.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:29.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:29.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:29.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:29.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:30.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:30.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:31.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:32.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=72, z=1418}
+[25Feb2026 02:34:37.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1150, y=71, z=1418}
+[25Feb2026 02:34:37.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1149, y=71, z=1418}
+[25Feb2026 02:34:39.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1149, y=71, z=1418}
+[25Feb2026 02:34:39.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1148, y=71, z=1418}
+[25Feb2026 02:34:56.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone blew up
+[25Feb2026 02:35:25.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slashed by sebita_chile
+[25Feb2026 02:36:29.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mabilone) moved wrongly! 0.26909785349948834
+[25Feb2026 02:36:30.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mabilone) moved wrongly! 0.5965897329156178
+[25Feb2026 02:36:30.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of Mabilone) moved wrongly! 1.0830595047893894
+[25Feb2026 02:36:30.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25Feb2026 02:36:48.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile moved wrongly!
+[25Feb2026 02:38:06.869] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 02:38:06.869] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 22
+[25Feb2026 02:38:06.869] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[25Feb2026 02:38:06.869] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 02:38:06.869] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1446MB / Diff: +125MB
+[25Feb2026 02:38:06.870] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 02:38:06.870] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 02:38:06.870] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 7
+[25Feb2026 02:40:27.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1147, y=74, z=1421} BlockPos{x=-1281, y=59, z=1443}
+[25Feb2026 02:42:26.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1256, y=71, z=1446} BlockPos{x=-1267, y=74, z=1444}
+[25Feb2026 02:45:24.360] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 02:45:29.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was struck by lightning while fighting sebita_chile
+[25Feb2026 02:45:30.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer was struck by lightning while fighting sebita_chile
+[25Feb2026 02:45:47.560] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 02:46:00.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone has made the advancement [No Longer Short-Staffed]
+[25Feb2026 02:46:09.964] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 02:46:15.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer has completed the challenge [Chisels & Bits!]
+[25Feb2026 02:46:28.510] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to replant minecraft:carrot
+[25Feb2026 02:46:56.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slain by sebita_chile
+[25Feb2026 02:48:04.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone was slain by sebita_chile
+[25Feb2026 02:48:06.919] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 02:48:06.919] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 26
+[25Feb2026 02:48:06.919] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[25Feb2026 02:48:06.919] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 02:48:06.919] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1441MB / Diff: +120MB
+[25Feb2026 02:48:06.919] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 02:48:06.919] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 02:48:06.919] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 7
+[25Feb2026 02:51:31.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer moved wrongly!
+[25Feb2026 02:51:45.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer moved wrongly!
+[25Feb2026 02:52:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> tengo
+[25Feb2026 02:52:30.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> el
+[25Feb2026 02:52:33.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> empene
+[25Feb2026 02:52:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> empeine
+[25Feb2026 02:52:39.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> grande
+[25Feb2026 02:52:41.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> saco wea
+[25Feb2026 02:52:44.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> se
+[25Feb2026 02:52:48.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zErazer> nose
+[25Feb2026 02:56:16.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone moved wrongly!
+[25Feb2026 02:58:06.966] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 02:58:06.966] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 26
+[25Feb2026 02:58:06.966] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[25Feb2026 02:58:06.966] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 02:58:06.967] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1422MB / Diff: +101MB
+[25Feb2026 02:58:06.967] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 02:58:06.967] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 02:58:06.967] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 6
+[25Feb2026 02:58:25.718] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mabilone lost connection: Disconnected
+[25Feb2026 02:58:25.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mabilone left the game
+[25Feb2026 02:58:25.720] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mabilone
+[25Feb2026 03:00:17.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sebita_chile lost connection: Disconnected
+[25Feb2026 03:00:17.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sebita_chile left the game
+[25Feb2026 03:00:17.871] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sebita_chile
+[25Feb2026 03:00:36.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zErazer lost connection: Disconnected
+[25Feb2026 03:00:36.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zErazer left the game
+[25Feb2026 03:00:36.467] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zErazer
+[25Feb2026 03:08:07.004] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[25Feb2026 03:08:07.004] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 26
+[25Feb2026 03:08:07.005] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 6
+[25Feb2026 03:08:07.005] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[25Feb2026 03:08:07.005] [Server thread/INFO] [AllTheLeaks/]: B: 1321MB / C: 1507MB / Diff: +186MB
+[25Feb2026 03:08:07.005] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[25Feb2026 03:08:07.005] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[25Feb2026 03:08:07.005] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 9
+[25Feb2026 03:08:07.005] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[25Feb2026 03:08:07.005] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1179
+[25Feb2026 03:11:32.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 10 players online: 
+[25Feb2026 03:11:37.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Feb2026 03:11:37.154] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping train listener...
+[25Feb2026 03:11:37.155] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping Advanced Display Data Manager...
+[25Feb2026 03:11:37.155] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[25Feb2026 03:11:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Feb2026 03:11:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Feb2026 03:11:37.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Feb2026 03:11:37.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Feb2026 03:11:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[25Feb2026 03:11:37.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Feb2026 03:11:37.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Feb2026 03:11:37.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[25Feb2026 03:11:37.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Feb2026 03:11:37.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[25Feb2026 03:11:37.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Feb2026 03:11:37.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Feb2026 03:11:37.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[25Feb2026 03:11:37.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Feb2026 03:11:37.214] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been stopped.
+[25Feb2026 03:11:37.249] [Server thread/INFO] [DragonLib/]: Stopping DragonLib Network Manager (Server) worker thread...
+[25Feb2026 03:11:37.249] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been stopped!
+[25Feb2026 03:11:38.163] [CRN Train Listener/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been stopped.
+[25Feb2026 03:11:38.166] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Feb2026 03:11:38.167] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[25Feb2026 03:11:38.168] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[25Feb2026 03:11:38.168] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25Feb2026 03:11:38.171] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easyanvils-server.toml
+[25Feb2026 03:11:38.178] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easymagic-server.toml

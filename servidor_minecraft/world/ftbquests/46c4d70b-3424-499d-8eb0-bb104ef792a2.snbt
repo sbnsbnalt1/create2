@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "46c4d70b3424499d8eb0bb104ef792a2"
+	name: "zErazer#46c4d70b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
